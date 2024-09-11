@@ -1,1 +1,52 @@
+[
+    {
+        "name": "Laptop",
+        "amount": 1200.00,
+        "discount": 150.00,
+        "category": "Electronics",
+        "createdDate": "2024-01-15"
+    },
+    {
+        "name": "Smartphone",
+        "amount": 800.00,
+        "discount": 100.00,
+        "category": "Electronics",
+        "createdDate": "2024-02-10"
+    },
+    {
+        "name": "Running Shoes",
+        "amount": 90.00,
+        "discount": 10.00,
+        "category": "Footwear",
+        "createdDate": "2024-03-05"
+    },
+    {
+        "name": "Coffee Maker",
+        "amount": 60.00,
+        "discount": 5.00,
+        "category": "Home Appliances",
+        "createdDate": "2024-04-20"
+    },
+    {
+        "name": "Office Chair",
+        "amount": 150.00,
+        "discount": 25.00,
+        "category": "Furniture",
+        "createdDate": "2024-05-25"
+    },
+    {
+        "name": "Headphones",
+        "amount": 150.00,
+        "discount": 20.00,
+        "category": "Electronics",
+        "createdDate": "2024-06-30"
+    },
+    {
+        "name": "Notebook",
+        "amount": 15.00,
+        "discount": 2.00,
+        "category": "Stationery",
+        "createdDate": "2024-07-15"
+    }
+]
 
